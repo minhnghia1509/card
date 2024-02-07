@@ -1,4 +1,4 @@
-const nameGirl = "Em";
+const nameGirl = "Ms. Hue";
 const giftUrl = "http://nodemy.vn";
 const eventName = "Happy New Lunar Year";
 const titleCard = "For you";
